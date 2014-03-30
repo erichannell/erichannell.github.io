@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Notes from the sandbox]]></title>
+  <link href="http://erichannell.com/atom.xml" rel="self"/>
+  <link href="http://erichannell.com/"/>
+  <updated>2014-03-30T18:59:33+01:00</updated>
+  <id>http://erichannell.com/</id>
+  <author>
+    <name><![CDATA[Eric Hannell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://erichannell.com/blog/2014/03/30/hello-world/"/>
+    <updated>2014-03-30T17:35:03+01:00</updated>
+    <id>http://erichannell.com/blog/2014/03/30/hello-world</id>
+    <content type="html"><![CDATA[<p>First post. Lorem ipsum dolor sit amet, choro libris delicatissimi an pro, ut habemus fierent cum. Modo stet expetenda est no, mei animal accusata definiebas in. Pri nostrum molestiae at, pri liber nullam praesent no. <!-- more --> Te est graecis lobortis assueverit. Nec ne graeco impedit voluptua, eam id esse senserit. Id eligendi insolens mnesarchum cum, doming voluptatibus ut has.</p>
+
+<p>In rebum congue impetus vel, te summo percipit rationibus eos. Cum ut primis semper recusabo. An harum facete usu. Dicam postea ad ius. Odio nibh cibo an quo.</p>
+]]></content>
+  </entry>
+  
+</feed>

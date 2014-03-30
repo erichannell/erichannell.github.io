@@ -1,0 +1,18 @@
+---
+layout: page
+title: "404"
+comments: false
+sharing: false
+footer: true
+---
+```python
+import urllib2
+
+try:
+   urllib2.urlopen(url)
+except urllib2.HTTPError, err:
+   if err.code == 404:
+       print "All your 404 are belong to this page"
+   else:
+       raise
+```

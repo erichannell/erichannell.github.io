@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[notes from the sandbox]]></title>
-  <link href="http://erichannell.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | notes from the sandbox]]></title>
+  <link href="http://erichannell.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://erichannell.com/"/>
   <updated>2014-04-19T13:04:24+01:00</updated>
   <id>http://erichannell.com/</id>
@@ -12,17 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[When Hashtags Collide]]></title>
-    <link href="http://erichannell.com/blog/2014/04/01/when-hashtags-collide/"/>
-    <updated>2014-04-01T12:55:32+01:00</updated>
-    <id>http://erichannell.com/blog/2014/04/01/when-hashtags-collide</id>
-    <content type="html"><![CDATA[<p>There are a lot of hashtags out there on Twitter, and most of them are unique, but many aren&rsquo;t. I have been thinking about how to best figure out what groups are using what hashtags so that collisions can be avoided. <!-- More --></p>
-
-<p>This is a common problem. There are even studies about it: <a href="http://www.academia.edu/1174600/Tweeting_Disaster_Hashtag_Constructions_and_Collisions">Tweeting Disaster: Hashtag Constructions and Collisions</a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Up and Running With Octopress]]></title>

@@ -2,7 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://erichannell.com/blog/2014/03/30/hello-world/</loc>
-        <lastmod>2014-03-30T18:46:26+01:00</lastmod>
+        <lastmod>2014-04-19T13:01:07+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://erichannell.com/blog/2014/04/01/when-hashtags-collide/</loc>
+        <lastmod>2014-04-19T13:04:24+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/404.html</loc>
@@ -10,11 +14,11 @@
     </url>
     <url>
         <loc>http://erichannell.com/about.html</loc>
-        <lastmod>2014-03-30T19:29:39+01:00</lastmod>
+        <lastmod>2014-04-19T12:47:32+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/blog/archives/</loc>
-        <lastmod>2014-03-30T18:46:26+01:00</lastmod>
+        <lastmod>2014-04-19T13:04:24+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/error/404.html</loc>
@@ -22,7 +26,7 @@
     </url>
     <url>
         <loc>http://erichannell.com/</loc>
-        <lastmod>2014-03-30T18:46:26+01:00</lastmod>
+        <lastmod>2014-04-19T13:04:24+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/projects.html</loc>

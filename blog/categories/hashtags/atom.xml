@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[notes from the sandbox]]></title>
-  <link href="http://erichannell.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Hashtags | notes from the sandbox]]></title>
+  <link href="http://erichannell.com/blog/categories/hashtags/atom.xml" rel="self"/>
   <link href="http://erichannell.com/"/>
   <updated>2014-04-19T13:04:24+01:00</updated>
   <id>http://erichannell.com/</id>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<p>There are a lot of hashtags out there on Twitter, and most of them are unique, but many aren&rsquo;t. I have been thinking about how to best figure out what groups are using what hashtags so that collisions can be avoided. <!-- More --></p>
 
 <p>This is a common problem. There are even studies about it: <a href="http://www.academia.edu/1174600/Tweeting_Disaster_Hashtag_Constructions_and_Collisions">Tweeting Disaster: Hashtag Constructions and Collisions</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Up and Running With Octopress]]></title>
-    <link href="http://erichannell.com/blog/2014/03/30/hello-world/"/>
-    <updated>2014-03-30T17:35:03+01:00</updated>
-    <id>http://erichannell.com/blog/2014/03/30/hello-world</id>
-    <content type="html"><![CDATA[<p>This site was built with <code>Octopress</code>. It is a fantastic framework, and I&rsquo;m very happy with it, but I struggled with a few problems during the setup. I thought I&rsquo;d explain them issues I had so that others can avoid them. <!-- More --></p>
 ]]></content>
   </entry>
   

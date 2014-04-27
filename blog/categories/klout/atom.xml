@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[notes from the sandbox]]></title>
-  <link href="http://erichannell.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Klout | notes from the sandbox]]></title>
+  <link href="http://erichannell.com/blog/categories/klout/atom.xml" rel="self"/>
   <link href="http://erichannell.com/"/>
   <updated>2014-04-28T00:07:28+01:00</updated>
   <id>http://erichannell.com/</id>
@@ -20,7 +20,7 @@
     <id>http://erichannell.com/blog/2014/03/27/bot-scores</id>
     <content type="html"><![CDATA[<p style="text-align:center;">I built a Twitter bot and it has a higher Klout score than I do:</p>
 
-<p style="text-align:center;"><img src="http://erichannell.com/images/me_klout.png" width="100" height="100" title="me" > vs. <img src="http://erichannell.com/images/sun_klout.png" width="100" height="100" title="me" ></p>
+<p style="text-align:center;"><img src="/images/me_klout.png" width="100" height="100" title="me" > vs. <img src="/images/sun_klout.png" width="100" height="100" title="me" ></p>
 
 <!-- More -->
 
@@ -55,7 +55,7 @@
 
 <p>I give very little thought to Klout scores and I have no delusions of self importance,  however I was surprised to see that my bot beats my Klout score:</p>
 
-<p style="text-align:center;"><img src="http://erichannell.com/images/me_klout.png" width="182" height="182" title="me" > vs. <img src="http://erichannell.com/images/sun_klout.png" width="182" height="182" title="me" ></p>
+<p style="text-align:center;"><img src="/images/me_klout.png" width="182" height="182" title="me" > vs. <img src="/images/sun_klout.png" width="182" height="182" title="me" ></p>
 
 <p>Klout claims to:</p>
 

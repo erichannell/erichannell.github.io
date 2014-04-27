@@ -1,0 +1,296 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Ego Metrics - notes from the sandbox</title>
+  <meta name="author" content="Eric Hannell">
+
+  
+  <meta name="description" content="I built a Twitter bot and it has a higher Klout score than I do: vs. A while back I built a bot that would put up it&rsquo;s periscope every 15 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://erichannell.com/blog/2014/03/27/bot-scores">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="notes from the sandbox" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-49735072-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">notes from the sandbox</a></h1>
+  
+    <h2>a making-things-breaking-things blog</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:erichannell.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/about.html">About</a></li>
+  <li><a href="/blog/categories/projects">Projects</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Ego Metrics</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-27T22:11:07+00:00" pubdate data-updated="true">Mar 27<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p style="text-align:center;">I built a Twitter bot and it has a higher Klout score than I do:</p>
+
+<p style="text-align:center;"><img src="/images/me_klout.png" width="100" height="100" title="me" > vs. <img src="/images/sun_klout.png" width="100" height="100" title="me" ></p>
+
+<!-- More -->
+
+
+<p>A while back I built a bot that would put up it&rsquo;s periscope every 15 minutes to look for a city where it was sunny. Once it finds a place it sends out a tweet:</p>
+
+<blockquote class="Twitter-tweet" lang="en"><p>It&#39;s sunny in London, United Kingdom</p>&mdash; It&#39;s sunny in: (@itissunnyin) <a href="https://Twitter.com/itissunnyin/statuses/455325822912823296">April 13, 2014</a></blockquote>
+
+
+<script async src="//platform.Twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>I moved to London from Barcelona and think about the sun a lot but I built the bot mainly because I wanted to work with the Twitter API and it seemed like a fun project to tackle with Python.</p>
+
+<p>Once everything was up and running (separate post on that later) I followed the bot and then left it to do its thing. It&rsquo;s been sending out sunny messages ever since to a handful of followers (some bots and some real people) that it picked up along the way.</p>
+
+<p>So far it has sent close to 10,000 tweets. Most seem to disappear into the Twitter-void, but some get replies:</p>
+
+<blockquote class="Twitter-tweet" lang="en"><p>&quot;<a href="https://Twitter.com/itissunnyin">@itissunnyin</a>: It&#39;s ALWAYS sunny in Asmara, Eritrea&quot; Fixed!</p>&mdash; blank (@Eri_Barrister) <a href="https://Twitter.com/Eri_Barrister/statuses/437769855442636800">February 24, 2014</a></blockquote>
+
+
+<script async src="//platform.Twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>I also have a personal Twitter account with almost 100 followers and 500 tweets to my name. I mainly use Twitter to follow the news and read what other people are saying but sometimes I jump right in with a gem of my own:</p>
+
+<blockquote class="Twitter-tweet" lang="en"><p>Looks like Sharknado will be to 2013 what Snakes on a Plane was to 2006.</p>&mdash; Eric Hannell (@erichannell) <a href="https://Twitter.com/erichannell/statuses/355708212915339264">July 12, 2013</a></blockquote>
+
+
+<script async src="//platform.Twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>I give very little thought to Klout scores and I have no delusions of self importance,  however I was surprised to see that my bot beats my Klout score:</p>
+
+<p style="text-align:center;"><img src="/images/me_klout.png" width="182" height="182" title="me" > vs. <img src="/images/sun_klout.png" width="182" height="182" title="me" ></p>
+
+<p>Klout claims to:</p>
+
+<blockquote><p>&ldquo;measure the size of a user&rsquo;s social media network and correlates the content created to measure how other users interact with that content.&rdquo;</p></blockquote>
+
+<p>My bot has a very small network and almost all the content is creates is ignored.</p>
+
+<p>Sean Golliher&rsquo;s post on <a href="http://www.seangolliher.com/2011/uncategorized/how-i-reversed-engineered-klout-score-to-an-r2-094/">Reverse Engineering Klout scores</a> includes:</p>
+
+<blockquote><p>When I first saw Klout scores being discussed, my first thought was “a Klout score is what I would call an ego metric.” Ego metrics are really only useful to the person checking the value. Klout.com has strong marketing on the home page to promote an ego metric feel. It is full of pictures of people with their Klout scores posted above them.</p></blockquote>
+
+<p>He goes on to talk about how Klout is probably calculating the scores (looks like it is basically just the log of your retweets).</p>
+
+<p>To me it&rsquo;s strange that a bot on a timer that sends out super-generic tweets would beat a human, but maybe I shouldn&rsquo;t be that surprised since there are surely more people retweeting my bot than retweeting me.</p>
+
+<p>More tweets = higher chance that someone sees one of them.</p>
+
+<p>Also, in defence of retweets, they do seem to be a harder metric to game than followers (easier to pay for). And, in a way, if someone repeats what you said then you must have had at least some impact on them, even if you are a bot.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Eric Hannell</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-03-27T22:11:07+00:00" pubdate data-updated="true">Mar 27<span>th</span>, 2014</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/klout/'>Klout</a>, <a class='category' href='/blog/categories/twitter/'>Twitter</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://erichannell.com/blog/2014/03/27/bot-scores/" data-via="erichannell" data-counturl="http://erichannell.com/blog/2014/03/27/bot-scores/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/03/27/bot-scores/">Ego Metrics</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/erichannell">@erichannell</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'erichannell',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Eric Hannell -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

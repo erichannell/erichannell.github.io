@@ -4,7 +4,7 @@
   <title><![CDATA[notes from the sandbox]]></title>
   <link href="http://erichannell.com/atom.xml" rel="self"/>
   <link href="http://erichannell.com/"/>
-  <updated>2014-04-28T00:07:28+01:00</updated>
+  <updated>2014-04-28T00:19:46+01:00</updated>
   <id>http://erichannell.com/</id>
   <author>
     <name><![CDATA[Eric Hannell]]></name>
@@ -61,7 +61,7 @@
 
 <blockquote><p>&ldquo;measure the size of a user&rsquo;s social media network and correlates the content created to measure how other users interact with that content.&rdquo;</p></blockquote>
 
-<p>My bot has a very small network and almost all the content is creates is ignored.</p>
+<p>My bot has a very small network and almost all the content it creates is ignored.</p>
 
 <p>Sean Golliher&rsquo;s post on <a href="http://www.seangolliher.com/2011/uncategorized/how-i-reversed-engineered-klout-score-to-an-r2-094/">Reverse Engineering Klout scores</a> includes:</p>
 

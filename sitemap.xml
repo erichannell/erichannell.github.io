@@ -2,7 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://erichannell.com/blog/2014/03/27/bot-scores/</loc>
-        <lastmod>2014-04-28T00:19:45+01:00</lastmod>
+        <lastmod>2014-04-29T23:44:08+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://erichannell.com/blog/2014/04/29/news-is-changing/</loc>
+        <lastmod>2014-06-07T19:14:09+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://erichannell.com/blog/2014/05/20/london/</loc>
+        <lastmod>2014-06-07T18:50:42+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/404.html</loc>
@@ -14,7 +22,7 @@
     </url>
     <url>
         <loc>http://erichannell.com/blog/archives/</loc>
-        <lastmod>2014-04-28T00:19:45+01:00</lastmod>
+        <lastmod>2014-06-07T19:14:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/error/404.html</loc>
@@ -22,7 +30,7 @@
     </url>
     <url>
         <loc>http://erichannell.com/</loc>
-        <lastmod>2014-04-28T00:19:45+01:00</lastmod>
+        <lastmod>2014-06-07T19:14:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://erichannell.com/projects.html</loc>

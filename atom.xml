@@ -4,7 +4,7 @@
   <title><![CDATA[notes from the sandbox]]></title>
   <link href="http://erichannell.com/atom.xml" rel="self"/>
   <link href="http://erichannell.com/"/>
-  <updated>2014-04-28T00:20:07+01:00</updated>
+  <updated>2014-06-07T19:16:56+01:00</updated>
   <id>http://erichannell.com/</id>
   <author>
     <name><![CDATA[Eric Hannell]]></name>
@@ -14,18 +14,118 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Ego Metrics]]></title>
-    <link href="http://erichannell.com/blog/2014/03/27/bot-scores/"/>
-    <updated>2014-03-27T22:11:07+00:00</updated>
-    <id>http://erichannell.com/blog/2014/03/27/bot-scores</id>
-    <content type="html"><![CDATA[<p style="text-align:center;">I built a Twitter bot and it has a higher Klout score than I do:</p>
-
-<p style="text-align:center;"><img src="http://erichannell.com/images/me_klout.png" width="100" height="100" title="me" > vs. <img src="http://erichannell.com/images/sun_klout.png" width="100" height="100" title="me" ></p>
+    <title type="html"><![CDATA[The London Tech Scene]]></title>
+    <link href="http://erichannell.com/blog/2014/05/20/london/"/>
+    <updated>2014-05-20T17:11:05+01:00</updated>
+    <id>http://erichannell.com/blog/2014/05/20/london</id>
+    <content type="html"><![CDATA[<p>London is a fantastic place, but there is so much going on that sometimes is fantastically tough to get your bearings.</p>
 
 <!-- More -->
 
 
-<p>A while back I built a bot that would put up it&rsquo;s periscope every 15 minutes to look for a city where it was sunny. Once it finds a place it sends out a tweet:</p>
+<p>In the short time that I have been here I have gone to some excellent events and met many incredible people.</p>
+
+<p>Here are a few recommendations for everyone that decided to give the city a go:</p>
+
+<p><strong>Find a job</strong>:</p>
+
+<ul>
+<li><a href="http://jobs.3-beards.com/jobs">3beards</a>: a job board created by London legends</li>
+<li><a href="http://www.workinstartups.com/">Work in Startups</a>: lists all kinds of startup jobs</li>
+<li><a href="http://www.campuslondon.com/jobs/">Campus London</a>: jobs announced by Campus London (a space set up by Google). Make sure to check the job board on the walls of the cafe too.</li>
+<li><a href="http://jobs.mindtheproduct.com/">Mind the Product</a>: jobs for Product Managers</li>
+<li><a href="http://careers.stackoverflow.com/uk/jobs/location/london">StackOverflow Careers</a>: mostly jobs for developers.</li>
+<li><a href="http://siliconmilkroundabout.com/">Silicon Milk Roundabout</a>: hands down the best job fair ever</li>
+</ul>
+
+
+<p><strong>Events</strong>:</p>
+
+<ul>
+<li><a href="http://www.meetup.com/HacksHackersLondon/">Hacks/Hackers</a>: The magic intersection between journalists &amp; developers.</li>
+<li><a href="http://www.meetup.com/HNLondon/">Hacker News London</a>: Meet fellow HN addicts &amp; listen to hackers talk.</li>
+<li><a href="http://www.meetup.com/minibar/">Minibar</a>: Monthly tech meetup in a great space. Focus changes but quality stays high.</li>
+<li><a href="http://www.campuslondon.com/events/calendar">Campus London events</a>: Everything happening at Campus. It is a busy place.</li>
+<li><a href="http://london.techhub.com/events/">TechHub events</a>: The most famous co-working space in the city. Most events are open to the public.</li>
+</ul>
+
+
+<p><strong>Understand the tech scene</strong>:</p>
+
+<ul>
+<li><a href="http://roundabout.io/">roundabout.io</a>: a map of digital London (startups, agencies, digital companies, etc.)</li>
+</ul>
+
+
+<p><strong>Meet people</strong>:</p>
+
+<ul>
+<li><a href="http://silicondrinkabout.com/london">Silicon Drinkabout</a>: Laid back after-work event on Fridays.</li>
+</ul>
+
+
+<p><strong>Newsletters</strong>:</p>
+
+<ul>
+<li><a href="http://thefetch.com/">Fetch</a>: a weekly blast of all the best tech events in the city.</li>
+<li><a href="http://3-beards.com/">The &lsquo;Stache by 3beards</a>: a weekly update by the beards.</li>
+</ul>
+
+
+<p><strong>Awesome London apps</strong>:</p>
+
+<ul>
+<li><a href="http://citymapper.com/">Citymapper</a>: get where you need to go. Really well executed app. Don&rsquo;t leave home without it.</li>
+<li><a href="http://yplanapp.com/">YPlan</a>: find out what is happening in the city and instantly book events.</li>
+<li><a href="https://www.uber.com/">Uber</a>: not an app from London, but a great app for getting around London.</li>
+</ul>
+
+
+<p>Also, Rosario Rascuna (<a href="https://twitter.com/_sarhus">@_sarhus</a>) wrote an excellent post on living in London, it should really be required reading: &ldquo;<a href="http://rosario.io/2013/10/09/london-hackers-guide.html">A short guide for all the hackers willing to live in London</a>&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[News Is Changing]]></title>
+    <link href="http://erichannell.com/blog/2014/04/29/news-is-changing/"/>
+    <updated>2014-04-29T22:50:45+01:00</updated>
+    <id>http://erichannell.com/blog/2014/04/29/news-is-changing</id>
+    <content type="html"><![CDATA[<p>As the way we consume news changes so does our relationship with news itself.</p>
+
+<p>There are now an estimated <a href="http://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_phones_in_use">97 cell phones per every 100 people on this planet</a>. Not all of them are smartphones, but with <a href="http://www.cnet.com/uk/news/mozillas-25-firefox-os-its-real-and-it-works/">Mozilla working on a $25 model</a>, the day when everyone that wants a smartphone owns one isn&rsquo;t far off.</p>
+
+<!-- More -->
+
+
+<p>In the U.S., the population consuming news digitally is still low compared to TV, but it is a rapidly growing group:<p></p>
+<img src="http://www.people-press.org/files/2013/08/2-Main-Source-for-News.png" alt="news" /></p>
+
+<p>Smartphones brought the internet to our pockets and an infinity of articles to our eyeballs. You might not always be in front of a TV or newspaper, but if you are like most people, you&rsquo;ll never be far from your phone. Also, as screen sizes grow, people will likely only consume more news on their devices.</p>
+
+<p>Maybe because they face infinite choice, consumers are also less loyal than ever. Many  prefer sites that aggregate content (like Google News, the Drudge Report or the Huffington Post) for daily news fixes. Consumers of digital news are more interested in the story than the organisation that broke it. Also, while some reporters have a loyal following, they often take their followers with them when they leave an organisation.</p>
+
+<p>Twitter has become the go-to place to get breaking news and apps like Circa keep users updated with alerts and updates to the stories that interest them.</p>
+
+<p>The majority of people that own devices also consume news on those devices:<p></p>
+<img src="http://www.journalism.org/files/legacy/u29/PJ_12_09_17_tabletNews-report_01_1.png" alt="digital" /></p>
+
+<p>It will be fascinating to see where these trends lead us.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ego Metrics]]></title>
+    <link href="http://erichannell.com/blog/2014/03/27/bot-scores/"/>
+    <updated>2014-03-27T22:11:07+00:00</updated>
+    <id>http://erichannell.com/blog/2014/03/27/bot-scores</id>
+    <content type="html"><![CDATA[<p style="text-align:center;">I built a Twitter bot (and it has a higher Klout score than I do).</p>
+
+<p style="text-align:center;"><img src="http://erichannell.com/images/me_klout.png" width="100" height="100" title="me" > vs. <img src="http://erichannell.com/images/sun_klout.png" width="100" height="100" title="me" ></p>
+
+<p>A while back I built a bot that would put up its periscope every 15 minutes to look for a city where it was sunny. Once it finds a place it sends out a tweet.</p>
+
+<!-- More -->
+
 
 <blockquote class="Twitter-tweet" lang="en"><p>It&#39;s sunny in London, United Kingdom</p>&mdash; It&#39;s sunny in: (@itissunnyin) <a href="https://Twitter.com/itissunnyin/statuses/455325822912823296">April 13, 2014</a></blockquote>
 
@@ -33,7 +133,8 @@
 <script async src="//platform.Twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<p>I moved to London from Barcelona and think about the sun a lot but I built the bot mainly because I wanted to work with the Twitter API and it seemed like a fun project to tackle with Python.</p>
+<p>Background:
+I moved to London from Barcelona and think about the sun a lot but I built the bot mainly because I wanted to work with the Twitter API and it seemed like a fun project to tackle with Python.</p>
 
 <p>Once everything was up and running (separate post on that later) I followed the bot and then left it to do its thing. It&rsquo;s been sending out sunny messages ever since to a handful of followers (some bots and some real people) that it picked up along the way.</p>
 
@@ -53,7 +154,7 @@
 <script async src="//platform.Twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<p>I give very little thought to Klout scores and I have no delusions of self importance,  however I was surprised to see that my bot beats my Klout score:</p>
+<p>I give very little thought to Klout scores and I have no delusions of self importance,  but I was surprised to see that my bot beats my Klout score:</p>
 
 <p style="text-align:center;"><img src="http://erichannell.com/images/me_klout.png" width="182" height="182" title="me" > vs. <img src="http://erichannell.com/images/sun_klout.png" width="182" height="182" title="me" ></p>
 
@@ -67,13 +168,9 @@
 
 <blockquote><p>When I first saw Klout scores being discussed, my first thought was “a Klout score is what I would call an ego metric.” Ego metrics are really only useful to the person checking the value. Klout.com has strong marketing on the home page to promote an ego metric feel. It is full of pictures of people with their Klout scores posted above them.</p></blockquote>
 
-<p>He goes on to talk about how Klout is probably calculating the scores (looks like it is basically just the log of your retweets).</p>
+<p>He goes on to talk about how Klout is probably calculating the scores (spoiler: looks like it is calculated by taking the log of your number of retweets).</p>
 
-<p>To me it&rsquo;s strange that a bot on a timer that sends out super-generic tweets would beat a human, but maybe I shouldn&rsquo;t be that surprised since there are surely more people retweeting my bot than retweeting me.</p>
-
-<p>More tweets = higher chance that someone sees one of them.</p>
-
-<p>Also, in defence of retweets, they do seem to be a harder metric to game than followers (easier to pay for). And, in a way, if someone repeats what you said then you must have had at least some impact on them, even if you are a bot.</p>
+<p>In defence of retweets, they do seem to be a harder metric to game than followers (which are easier to buy). And, in a way, if someone repeats what you said then you must have had at least some impact on them, even if you are a bot.</p>
 ]]></content>
   </entry>
   

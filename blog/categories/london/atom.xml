@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: London | notes from the sandbox]]></title>
+  <link href="http://erichannell.com/blog/categories/london/atom.xml" rel="self"/>
+  <link href="http://erichannell.com/"/>
+  <updated>2014-06-07T19:16:56+01:00</updated>
+  <id>http://erichannell.com/</id>
+  <author>
+    <name><![CDATA[Eric Hannell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The London Tech Scene]]></title>
+    <link href="http://erichannell.com/blog/2014/05/20/london/"/>
+    <updated>2014-05-20T17:11:05+01:00</updated>
+    <id>http://erichannell.com/blog/2014/05/20/london</id>
+    <content type="html"><![CDATA[<p>London is a fantastic place, but there is so much going on that sometimes is fantastically tough to get your bearings.</p>
+
+<!-- More -->
+
+
+<p>In the short time that I have been here I have gone to some excellent events and met many incredible people.</p>
+
+<p>Here are a few recommendations for everyone that decided to give the city a go:</p>
+
+<p><strong>Find a job</strong>:</p>
+
+<ul>
+<li><a href="http://jobs.3-beards.com/jobs">3beards</a>: a job board created by London legends</li>
+<li><a href="http://www.workinstartups.com/">Work in Startups</a>: lists all kinds of startup jobs</li>
+<li><a href="http://www.campuslondon.com/jobs/">Campus London</a>: jobs announced by Campus London (a space set up by Google). Make sure to check the job board on the walls of the cafe too.</li>
+<li><a href="http://jobs.mindtheproduct.com/">Mind the Product</a>: jobs for Product Managers</li>
+<li><a href="http://careers.stackoverflow.com/uk/jobs/location/london">StackOverflow Careers</a>: mostly jobs for developers.</li>
+<li><a href="http://siliconmilkroundabout.com/">Silicon Milk Roundabout</a>: hands down the best job fair ever</li>
+</ul>
+
+
+<p><strong>Events</strong>:</p>
+
+<ul>
+<li><a href="http://www.meetup.com/HacksHackersLondon/">Hacks/Hackers</a>: The magic intersection between journalists &amp; developers.</li>
+<li><a href="http://www.meetup.com/HNLondon/">Hacker News London</a>: Meet fellow HN addicts &amp; listen to hackers talk.</li>
+<li><a href="http://www.meetup.com/minibar/">Minibar</a>: Monthly tech meetup in a great space. Focus changes but quality stays high.</li>
+<li><a href="http://www.campuslondon.com/events/calendar">Campus London events</a>: Everything happening at Campus. It is a busy place.</li>
+<li><a href="http://london.techhub.com/events/">TechHub events</a>: The most famous co-working space in the city. Most events are open to the public.</li>
+</ul>
+
+
+<p><strong>Understand the tech scene</strong>:</p>
+
+<ul>
+<li><a href="http://roundabout.io/">roundabout.io</a>: a map of digital London (startups, agencies, digital companies, etc.)</li>
+</ul>
+
+
+<p><strong>Meet people</strong>:</p>
+
+<ul>
+<li><a href="http://silicondrinkabout.com/london">Silicon Drinkabout</a>: Laid back after-work event on Fridays.</li>
+</ul>
+
+
+<p><strong>Newsletters</strong>:</p>
+
+<ul>
+<li><a href="http://thefetch.com/">Fetch</a>: a weekly blast of all the best tech events in the city.</li>
+<li><a href="http://3-beards.com/">The &lsquo;Stache by 3beards</a>: a weekly update by the beards.</li>
+</ul>
+
+
+<p><strong>Awesome London apps</strong>:</p>
+
+<ul>
+<li><a href="http://citymapper.com/">Citymapper</a>: get where you need to go. Really well executed app. Don&rsquo;t leave home without it.</li>
+<li><a href="http://yplanapp.com/">YPlan</a>: find out what is happening in the city and instantly book events.</li>
+<li><a href="https://www.uber.com/">Uber</a>: not an app from London, but a great app for getting around London.</li>
+</ul>
+
+
+<p>Also, Rosario Rascuna (<a href="https://twitter.com/_sarhus">@_sarhus</a>) wrote an excellent post on living in London, it should really be required reading: &ldquo;<a href="http://rosario.io/2013/10/09/london-hackers-guide.html">A short guide for all the hackers willing to live in London</a>&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
